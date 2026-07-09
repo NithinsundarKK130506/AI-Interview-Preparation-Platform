@@ -6,13 +6,6 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue" alt="v2.0.0" />
-  <img src="https://img.shields.io/badge/Frontend-Vercel-black" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Backend-Render-blue" alt="Render" />
-  <img src="https://img.shields.io/badge/GSSoC-2025-orange" alt="GSSoC 2025" />
-</p>
-
 ---
 
 ## Features
