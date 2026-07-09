@@ -4,9 +4,7 @@
   <strong>AI-powered mock interview platform</strong> — personalized questions, instant scoring, voice analysis, and shareable PDF reports.
 </p>
 
-<p align="center">
-  <a href="https://prepedgeai.vercel.app"><strong>Live Demo → prepedgeai.vercel.app</strong></a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue" alt="v2.0.0" />
