@@ -61,22 +61,8 @@ npm run dev
 - Web: http://localhost:5173  
 - API: http://localhost:5000  
 
-**Detailed setup:** [docs/getting-started.md](./docs/getting-started.md)
 
----
 
-## Documentation
-
-All documentation lives in **[`docs/`](./docs/README.md)**:
-
-| For… | Read |
-|------|------|
-| **Interview prep** (technical + behavioral Q&A) | [docs/interview-prep/README.md](./docs/interview-prep/README.md) |
-| Architecture & system design | [docs/architecture.md](./docs/architecture.md) |
-| API reference | [docs/api-overview.md](./docs/api-overview.md) |
-| Deployment | [docs/deployment.md](./docs/deployment.md) |
-| Contributors | [docs/development/BUILD.md](./docs/development/BUILD.md) |
-| Product requirements | [docs/development/PLAN.md](./docs/development/PLAN.md) |
 
 ---
 
@@ -108,23 +94,16 @@ PrepEdge-AI/
 
 ---
 
-## Contributing
-
-PrepEdge AI is part of **GirlScript Summer of Code (GSSoC) 2025**. Contributions welcome!
-
-1. Read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-2. Read [docs/getting-started.md](./docs/getting-started.md) and [docs/development/BUILD.md](./docs/development/BUILD.md)
-3. Pick or open an issue; wait for assignment
-4. Fork → branch → PR with tests green
 
 ---
 
 ## Author
 
-**Abhinav Mishra** — [@CoderUzumaki](https://github.com/CoderUzumaki)
+Nithinsundar KK
+
+GitHub: https://github.com/NithinsundarKK130506
+
+LinkedIn: https://www.linkedin.com/in/nithinsundarkk/
 
 ---
 
-## License
-
-[MIT License](./LICENSE)
